@@ -1,0 +1,3 @@
+[submodule "KernelSU"]
+	path = KernelSU
+	url = https://raw.githubusercontent.com/SukiSU-Ultra/SukiSU-Ultra/main/kernel/setup.sh
